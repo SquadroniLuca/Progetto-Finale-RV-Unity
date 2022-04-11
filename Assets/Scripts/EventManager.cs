@@ -3,7 +3,8 @@ using UnityEngine;
 
 public class EventManager : MonoBehaviour
 {
-    public delegate void ReceivePoints(GameObject gameObject, int pts);//definisce la funzione che voglio (interfaccia funzione evento)
+    //definisce la funzione che voglio (interfaccia funzione evento)
+    public delegate void ReceivePoints(GameObject gameObject, int pts);
     public static event ReceivePoints Points;
 
     public delegate void ReceiveSound(string objTag);
