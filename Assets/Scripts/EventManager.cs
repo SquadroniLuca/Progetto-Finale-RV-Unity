@@ -4,7 +4,7 @@ using UnityEngine;
 public class EventManager : MonoBehaviour
 {
     //definisce la funzione che voglio (interfaccia funzione evento)
-    public delegate void ReceivePoints(GameObject gameObject, int pts);
+    public delegate void ReceivePoints(int pts);
     public static event ReceivePoints Points;
 
     public delegate void ReceiveSound(string objTag);
@@ -17,9 +17,9 @@ public class EventManager : MonoBehaviour
     public static event ReceiveWrongRecycling WrongRecycling;
 
 
-    internal static void FirePointsEvent(GameObject gameObject, int pts)
+    internal static void FirePointsEvent(int pts)
     {
-        Points?.Invoke(gameObject, pts);
+        Points?.Invoke(pts);
     }
 
     internal static void FireSoundEvent(string objTag)

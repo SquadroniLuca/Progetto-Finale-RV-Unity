@@ -1,22 +1,28 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Collections.Generic;
 
-namespace Constants
+namespace Enums
 {
-    namespace Enums
+    public enum TrashType
     {
-        public enum TrashType
-        {
-            PAPER,
-            PLASTIC,
-            ORGANIC,
-            GLASS,
-            TIN,
-            NONRECYCLABLE
-        }
+        PAPER,
+        PLASTIC,
+        ORGANIC,
+        GLASS,
+        TIN,
+        NONRECYCLABLE
     }
-    
+
+    public enum AudioClips
+    {
+        CORRECT,
+        WRONG
+    }
+}
+public static class Constants
+{
+    public static Dictionary<Enums.AudioClips,string> Clips = new Dictionary<Enums.AudioClips, string> {
+            {Enums.AudioClips.CORRECT, "correctAction" },
+            {Enums.AudioClips.WRONG, "wrongAction" }
+        };
+
 }
