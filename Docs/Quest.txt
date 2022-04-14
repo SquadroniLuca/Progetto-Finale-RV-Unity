@@ -1,0 +1,141 @@
+FONTI
+https://www.valconca.info/natura_amica/alberoriciclo/riciclo.html#3
+
+
+BIRO - GOMMA: https://assetstore.unity.com/packages/3d/school-supplies-96667
+SEDIA - PC: https://assetstore.unity.com/packages/3d/environments/low-poly-office-props-lite-131438
+MEDICINALI - BATTERIE - BOTTIGLIA PLASTICA - LATTA: https://assetstore.unity.com/packages/3d/props/tools/survival-game-tools-139872
+PNEUMATICI: 
+	https://assetstore.unity.com/packages/3d/high-detail-1970-s-supercar-wheel-92408
+	https://assetstore.unity.com/packages/3d/vehicles/land/simple-drift-tyres-212232
+BOMBOLA: https://assetstore.unity.com/packages/3d/props/industrial/rusted-gaz-bottles-149777
+LATTE (tetrapac): https://assetstore.unity.com/packages/3d/props/food/carton-of-milk-4k-pbr-162383
+SCATOLA CARTONE:
+	https://assetstore.unity.com/packages/3d/props/pbr-cardboard-box-110635
+	https://assetstore.unity.com/packages/3d/props/industrial/cardboard-boxes-pack-hd-202666
+	https://assetstore.unity.com/packages/3d/boxes-63740
+	https://assetstore.unity.com/packages/3d/props/cardboard-boxes-pack-30695
+CASSETTA LEGNO:
+	https://assetstore.unity.com/packages/3d/props/low-poly-crates-80037
+RICOMPENSE: https://assetstore.unity.com/packages/3d/props/interior/christmas-toys-106607
+GIORNALE:
+	https://www.turbosquid.com/3d-models/pages-ma-free/261212
+	https://sketchfab.com/3d-models/y2k-newspaper-article-26abe219722a46c1af93825614f34bcf
+	https://sketchfab.com/3d-models/y2k-newspaper-article-d0f1f586eb8c4abe87e35273913f3d97
+BOTTIGLIE: 
+	https://sketchfab.com/3d-models/glass-bottles-recycle-bin-trash-dbcc332d43784adebd5c766d9f8be30e
+	https://sketchfab.com/3d-models/glass-bottle-beb69bc08a8f487ab8c5207fb155cbf2#download
+SCARPA: https://sketchfab.com/3d-models/nike-air-max-90s-recycled-1f1c25c6332f49358bbe227261a82f99
+OLD TV: https://sketchfab.com/3d-models/tv-ee802eec0b5742f2b036ea986b89ad88
+OLD PC: https://sketchfab.com/3d-models/1990-tv-f4a523c95d964e1c973856c9b2bca233
+OLD REGIDTRATORE: https://sketchfab.com/3d-models/old-recorder-freepolyorg-dbf0dbcf4229429088b0a984e8f05666
+CARTA STAGNOLA: https://sketchfab.com/3d-models/tinfoil-hat-77ad6df41092440f9e0bd641ab8a8565
+VETRO ROMPIBILE: 
+	https://assetstore.unity.com/packages/tools/particles-effects/breakable-windows-110383
+	https://sketchfab.com/3d-models/shattered-glass-5cedc4854d104f1f9bb5854db52c2af1
+BICCHIERI VETRO: 
+	https://assetstore.unity.com/packages/3d/props/industrial/hd-glass-pack-95520
+	https://sketchfab.com/3d-models/wine-glass-480cfc5b09ce4a1bb6b262e3686077c7#download
+	https://sketchfab.com/3d-models/simple-glass-cup-a9d4e134a68c4dc4a2a375bd1b227f6b
+	https://sketchfab.com/3d-models/shot-glass-b5c053f7dbcb42d69e0475f3a0d4c257#download
+	https://sketchfab.com/3d-models/ikea-glass-0ce3b89790954c499f9dc67f3e3a621f
+LATTINE:
+	https://sketchfab.com/3d-models/goop-tin-84bb9375569d480e9c75af773c8977ab
+	https://sketchfab.com/3d-models/tin-0cea33fa41eb49d3a8b00d9e4d325053
+	https://sketchfab.com/3d-models/tin-can-f7562dd4f11f4cbaa2cac58c38a85e1c
+ORGANIC
+	https://sketchfab.com/3d-models/hay-fruit-composter-e991901484e94b7d9e51365ab9861f94
+	https://sketchfab.com/3d-models/cauliflower-d2ba8154fb1a4303928d657beeb2b8f2
+	https://sketchfab.com/3d-models/15th-fall-banana-peel-60a3ba892429433d9b580998b1036c55
+	https://sketchfab.com/3d-models/refraction-demo-st-happens-3b07b79769ac447aad1ac2e8c1319302
+	https://sketchfab.com/3d-models/pumpkin-vcu-3d-4682-bcae7c41035144159fd354493eb0757e
+PLASTIC BAG:
+	https://sketchfab.com/3d-models/plastic-bag-ee25d63ef5384a38b2e82605d851f1b9
+	https://sketchfab.com/3d-models/plastic-bag-dirty-2-e51f0e4320f84bd194041bb59c72066a
+	https://sketchfab.com/3d-models/trash-bag-v2-free-9ef36ddf03bb4db99bc32a369cc2c871
+
+
+QUEST PLAYER - riconpensa: PUNTI
+
+	PAPER: ricicla 5 PAPER
+	PAPER: raccogli 1 libro
+	PAPER: ricicla 2 giornali
+	PAPER: ricicla 1 scatola di cartone
+
+	PLASTIC: ricicla 5 PLASTIC
+	PLASTIC: ricicla 2 buste di plastica
+
+	ORGANIC: ricicla 5 ORGANIC
+	ORGANIC:
+
+	GLASS: ricicla 5 GLASS
+	GLASS: ricicla 2 bottiglie di vetro
+	GLASS: ricicla 2 bicchieri
+
+	TIN: ricicla 5 TIN
+	TIN: ricicla 3 lattine
+	TIN: ricicla 2 scatolette
+           
+	NONRECYCLABLE: ricicla 5 NONRECYCLABLE 
+	NONRECYCLABLE: raccogli 3 medicinali
+	NONRECYCLABLE: ricicla 2 pile
+	NONRECYCLABLE: ricicla 1 pneumatico
+	
+	RICOMPENSA FINALE - MAGO DEL RICICLO: https://sketchfab.com/3d-models/recyclebot-d4bb9d9b8fdf4f24993d7544cad67193
+
+
+QUEST PNG - riconpensa: OGGETTI/PUNTI
+
+
+NONRECYCLABLE - DOTTORE
+oggetto da portare: 
+	- 2 medicinali
+
+NONRECYCLABLE - OMINO
+oggetto da portare: 
+	- 1 pile
+	ricompensa UOMO PILA: https://sketchfab.com/3d-models/recyclotron-dancing-the-robot-dance-bdd0dd4ffcb6470792725adc8db4774e
+
+TIN - OMINO
+oggetto da portare: 
+	- 2 lattine
+	- 1 scatoletta
+	ricompensa UOMO LATTA: https://sketchfab.com/3d-models/gol-d-bot-0531d65afd364d2fa7abebd69ef39b54
+GLASS
+	- 3 vetri
+	- 2 legno
+	ricompensa: https://assetstore.unity.com/packages/3d/props/interior/sand-clock-8466
+
+PLASTIC
+	- 1 busta plastica
+	- 1 organic
+	- 1 pila
+	ricmpensa UOMO DI PLASTICA: https://sketchfab.com/3d-models/recycling-protectron-41efc935791540cb9247bcb7c71f0109
+
+
+QUEST CONTINUE - riconpensa: OGGETTI/PUNTI
+
+PAPEL - LIBRAIO (x1) : ogni libro portato da una ricompensa
+oggetto da portare: 
+	- https://assetstore.unity.com/packages/3d/props/hq-old-books-96841
+	- https://assetstore.unity.com/packages/3d/props/interior/books-3356
+	- https://assetstore.unity.com/packages/3d/props/interior/qa-books-115415
+	ricompensa: 
+		https://assetstore.unity.com/packages/3d/props/origami-paper-crane-16630
+		https://assetstore.unity.com/packages/3d/lowpoly-paper-boat-61369
+
+ORGANICO - CONTADINO (x1) : ogni rifiuto organico portato da una ricompensa
+	ricompensa: https://sketchfab.com/3d-models/anatomy-of-a-miniature-rose-photogrammetry-e740eaaf387f4edd806b2d33af554500
+	ricompensa: https://sketchfab.com/3d-models/white-flower-9e025b18a39741a4a38b197cee3cdcac
+	ricompensa: https://sketchfab.com/3d-models/sunflower-569a71ccf4d94c1585c9573521fb998f
+	ricompensa: https://sketchfab.com/3d-models/colored-flower-6b3020fed29c4976bc44ed1b7cb7e960
+	ricompensa: https://sketchfab.com/3d-models/flower-0fa50cf622f44f2ba59eff6c11cb8fbd
+	ricompensa: https://sketchfab.com/3d-models/flowers-e9e8b1ca9d3640f8be00b760e1fad170
+	ricompensa: https://sketchfab.com/3d-models/crystal-flowers-2d8bcf463c9d4128bdc1a7abc7096d4d
+	ricompensa: https://sketchfab.com/3d-models/pink-flowers-d540ef396c0e456eb17bbba334a5e81a
+
+TIN - BARISTA (x5): ogni 5 oggetti di latta
+	ricompensa: https://sketchfab.com/3d-models/old-italian-coffee-maker-8940c8884dc14e4c85164f582db9aff4
+	ricompensa: https://sketchfab.com/3d-models/coffee-maker-692688da914f4a4dbd54ce7969a3bae0
+
+
