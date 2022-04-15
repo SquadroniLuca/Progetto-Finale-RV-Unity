@@ -105,6 +105,14 @@ namespace Valve.VR
             }
         }
         
+        public virtual SteamVR_Action_Boolean PutInInventory
+        {
+            get
+            {
+                return SteamVR_Actions.default_PutInInventory;
+            }
+        }
+        
         public virtual SteamVR_Action_Vibration Haptic
         {
             get
