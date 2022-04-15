@@ -9,7 +9,11 @@ class RecyclableObject : MonoBehaviour
 {
     [SerializeField]
     private Enums.TrashType _trashType;
+    [SerializeField]
+    private Enums.ObjectType _objectType;
+
     public Enums.TrashType TrashType { get { return _trashType; } private set { _trashType = value; } }
+    public Enums.ObjectType ObjectType { get { return _objectType; } private set { _objectType = value; } }
 
     private void Start()
     {
@@ -18,9 +22,9 @@ class RecyclableObject : MonoBehaviour
     private void OnTriggerEnter(Collider other)
     {
         TrashCan can = other.gameObject.GetComponent<TrashCan>();
-        if (can != null && can.TrashType == this.TrashType)
+        if (can != null && can.TrashType.Contains(this.TrashType))
         {
-            EventManager.FireCorrectRecycling();
+            EventManager.FireCorrectRecycling(TrashType, ObjectType);
             UnityEngine.Debug.Log("correct!");
         }
         else
@@ -28,6 +32,5 @@ class RecyclableObject : MonoBehaviour
             EventManager.FireWrongRecycling();
             UnityEngine.Debug.Log("wrooong!");
         }
-        //manca il caso in cui si butti nell'indifferenziata, che non è riciclato ma non è neanche sbagliato
     }
 }

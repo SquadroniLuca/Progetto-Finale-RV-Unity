@@ -9,7 +9,30 @@ namespace Enums
         ORGANIC,
         GLASS,
         TIN,
-        NONRECYCLABLE
+        NONRECYCLABLE,
+        ELECTRONICS,
+        FABRICS,
+        SPECIAL
+    }
+
+
+    public enum ObjectType
+    {
+        DRUG,
+        CAN,
+        CASE,
+        BOOK,
+        BOX,
+        NEWSPAPER,
+        BAG,
+        BOTTLE,
+        GLASS,
+        BATTERY,
+        TIRE,
+        WOOD,
+        SHOES,
+        SHIRTS,
+        PANTS
     }
 
     public enum AudioClips
@@ -24,5 +47,29 @@ public static class Constants
             {Enums.AudioClips.CORRECT, "correctAction" },
             {Enums.AudioClips.WRONG, "wrongAction" }
         };
+
+    public static ObjectsQuest PaperObjQuest = new ObjectsQuest
+    {
+        {Enums.ObjectType.NEWSPAPER, 2 },
+        {Enums.ObjectType.BOOK, 1 },
+        {Enums.ObjectType.BOX, 1 }
+    };
+
+    public static ObjectsQuest PlasticObjQuest = new ObjectsQuest
+    {
+        {Enums.ObjectType.BAG, 2 }
+    };
+
+    public static ObjectsQuest TinObjQuest = new ObjectsQuest
+    {
+        {Enums.ObjectType.CAN, 3 },
+        {Enums.ObjectType.CASE, 2 }
+    };
+
+    public static ObjectsQuest GlassObjQuest = new ObjectsQuest
+    {
+        {Enums.ObjectType.GLASS, 2 },
+        {Enums.ObjectType.BOTTLE, 2 }
+    };
 
 }

@@ -10,7 +10,7 @@ public class EventManager : MonoBehaviour
     public delegate void ReceiveSound(string objTag);
     public static event ReceiveSound Sound;
 
-    public delegate void ReceiveCorrectRecycling();
+    public delegate void ReceiveCorrectRecycling(Enums.TrashType trashType, Enums.ObjectType objectType);
     public static event ReceiveCorrectRecycling CorrectRecycling;
 
     public delegate void ReceiveWrongRecycling();
@@ -27,9 +27,9 @@ public class EventManager : MonoBehaviour
         Sound?.Invoke(objTag);
     }
 
-    internal static void FireCorrectRecycling()
+    internal static void FireCorrectRecycling(Enums.TrashType trashType, Enums.ObjectType objectType)
     {
-        CorrectRecycling?.Invoke();
+        CorrectRecycling?.Invoke(trashType, objectType);
     }
 
     internal static void FireWrongRecycling()
