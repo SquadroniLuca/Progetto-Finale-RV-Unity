@@ -17,7 +17,7 @@ public class SoundManager : MonoBehaviour
         audioSource = GetComponent<AudioSource>();
     }
 
-    void PlayCorrectRecycling()
+    void PlayCorrectRecycling(Enums.TrashType trashType, Enums.ObjectType objectType)
     {
         Play(Constants.Clips.GetValueOrDefault(Enums.AudioClips.CORRECT));
     }

@@ -55,10 +55,10 @@ PLASTIC BAG:
 	https://sketchfab.com/3d-models/trash-bag-v2-free-9ef36ddf03bb4db99bc32a369cc2c871
 
 
-QUEST PLAYER - riconpensa: PUNTI
+QUEST PLAYER - ricompensa: PUNTI -> ObjectQuest in C#
 
-	PAPER: ricicla 5 PAPER
-	PAPER: raccogli 1 libro
+	PAPER: ricicla 5 PAPER //catalogate come generiche
+	PAPER: raccogli 1 libro //catalogate come specifiche
 	PAPER: ricicla 2 giornali
 	PAPER: ricicla 1 scatola di cartone
 
@@ -84,8 +84,7 @@ QUEST PLAYER - riconpensa: PUNTI
 	RICOMPENSA FINALE - MAGO DEL RICICLO: https://sketchfab.com/3d-models/recyclebot-d4bb9d9b8fdf4f24993d7544cad67193
 
 
-QUEST PNG - riconpensa: OGGETTI/PUNTI
-
+QUEST PNG - ricompensa: OGGETTI/PUNTI
 
 NONRECYCLABLE - DOTTORE
 oggetto da portare: 
@@ -113,7 +112,7 @@ PLASTIC
 	ricmpensa UOMO DI PLASTICA: https://sketchfab.com/3d-models/recycling-protectron-41efc935791540cb9247bcb7c71f0109
 
 
-QUEST CONTINUE - riconpensa: OGGETTI/PUNTI
+QUEST CONTINUE - ricompensa: OGGETTI/PUNTI
 
 PAPEL - LIBRAIO (x1) : ogni libro portato da una ricompensa
 oggetto da portare: 
