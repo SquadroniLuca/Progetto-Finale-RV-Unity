@@ -19,11 +19,11 @@ public class SoundManager : MonoBehaviour
 
     void PlayCorrectRecycling(Enums.TrashType trashType, Enums.ObjectType objectType)
     {
-        Play(Constants.Clips.GetValueOrDefault(Enums.AudioClips.CORRECT));
+        Play(Constants.Clips[Enums.AudioClips.CORRECT]);
     }
     void PlayWrongRecycling()
     {
-        Play(Constants.Clips.GetValueOrDefault(Enums.AudioClips.WRONG));
+        Play(Constants.Clips[Enums.AudioClips.WRONG]);
     }
 
     void Play(string audioclip)
